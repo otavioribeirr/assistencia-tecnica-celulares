@@ -1,17 +1,24 @@
-# assistencia_tecnica
+# Assistência Técnica de Celulares
 
-A new Flutter project.
+## Integrantes
+- Otávio Ribeiro
+- Isabella
 
-## Getting Started
+## Descrição
+⭐ Projeto desenvolvido em Flutter e Dart para representar um sistema de assistência técnica de celulares, utilizando classes e conceitos de Programação Orientada a Objetos. ⭐
 
-This project is a starting point for a Flutter application.
+## Tecnologias utilizadas
+- Flutter
+- Dart
+- Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar
+No terminal, dentro da pasta do projeto, execute:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```bash
+flutter pub get (Baixa e organiza as dependências do projeto.)
+flutter run -d chrome (Executa o projeto Flutter no Google Chrome.)
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Utilização de Inteligência Artificial
+A Inteligência Artificial foi utilizada principalmente como ferramenta de apoio para orientação na conversão das classes Java para Dart. Além disso, também utilizamos para identificação de erros e esclarecimento de conceitos durante o desenvolvimento de todo o projeto. 🤓
